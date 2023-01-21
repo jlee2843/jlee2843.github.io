@@ -2230,7 +2230,6 @@ input, select, textarea {
 			padding-left: 0.8em;
 			margin: 0;
 			padding: 0;
-			display:inline;
 		}
 
 		ul.alt {
@@ -2775,7 +2774,7 @@ input, select, textarea {
 			}
 
 				#header > footer .icons li a {
-					color: #b7eadc;
+					color: #e1ebfa;
 				}
 
 		#header > nav {
