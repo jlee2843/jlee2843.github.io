@@ -35,6 +35,8 @@ body {
 
 ol, ul {
 	list-style: none;
+	margin:0;
+	padding:0;
 }
 
 blockquote, q {
@@ -2224,6 +2226,8 @@ input, select, textarea {
 		list-style: disc;
 		margin: 0 0 2.25em 0;
 		padding-left: 1em;
+		padding:0;
+		margin:0;
 	}
 
 		ul li {
