@@ -2227,10 +2227,11 @@ input, select, textarea {
 	}
 
 		ul li {
-			padding-left: 0.8em;
-			padding-top: 0;
 			margin: 0;
 			padding: 0;
+			list-style:none;
+			padding-left: 0.8em;
+			padding-top: 0;
 			padding-right: 0;
 		}
 
@@ -2241,7 +2242,7 @@ input, select, textarea {
 
 			ul.alt li {
 				border-top: solid 2px #f4f4f4;
-				padding: 0.5em 0;
+				padding: 0 0;
 			}
 
 				ul.alt li:first-child {
